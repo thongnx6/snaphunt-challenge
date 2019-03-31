@@ -44,6 +44,8 @@ Build will be located in the directory `./static`.
    - Use eslint and configuration linter strict mode for coding styles and format code auto with prettier.
 3) Which parts of your work are you most proud of?
    - Mobile responsive.
+   - Applied HOC as transforms a component into another component.
+   - Apply React.lazy to render a dynamic import as a regular component, Suspense component to show some fallback content while we’re waiting for it to load - such as a loading indicator.
    - Use Redux architecture revolves around a strict unidirectional data flow.
    - Work with a Remote API using Redux Saga, easier to manage, more efficient to execute, simple to test, and better at handling failures.
 4) Which parts of the challenge do you spend the most time on?
